@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_Thyemleaf_H2_JPA_REST
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: chandra
+Implementation-Vendor-Id: com.chandra
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBoot_
+ Thyemleaf_H2_JPA_REST
+Created-By: Maven Integration for Eclipse
+
